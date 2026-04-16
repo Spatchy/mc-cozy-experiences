@@ -1,0 +1,7 @@
+{
+    "name": "MC Cozy Experiences",
+    "version": "2026.4.1",
+    "overrides": [
+        "config"
+    ]
+}
