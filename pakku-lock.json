@@ -95,34 +95,6 @@
             ]
         },
         {
-            "pakku_id": "cu17koYcvzD7jI1N",
-            "type": "MOD",
-            "slug": {
-                "github": "MrCrayfish/Backpacked"
-            },
-            "name": {
-                "github": "Backpacked"
-            },
-            "id": {
-                "github": "230260194"
-            },
-            "files": [
-                {
-                    "type": "github",
-                    "file_name": "CHANGELOG.txt",
-                    "release_type": "release",
-                    "url": "https://github.com/MrCrayfish/Backpacked/releases/download/v3.0.4+26.1.2/CHANGELOG.txt",
-                    "id": "395137208",
-                    "parent_id": "230260194",
-                    "hashes": {
-                        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
-                    },
-                    "size": 1,
-                    "date_published": "2026-04-13T04:25:57Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "lzueJyWSQwtWeLPR",
             "pakku_links": [
                 "KLpSU5qrtzHhP0vt",
@@ -613,6 +585,57 @@
                     "required_dependencies": [],
                     "size": 2661592,
                     "date_published": "2024-06-24T02:45:33.956109Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "JKeXCcq1KsdOkW6Z",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "network-protocol-disconnect"
+            },
+            "name": {
+                "modrinth": "Network Protocol Disconnect"
+            },
+            "id": {
+                "modrinth": "XFlUmiDF"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "netprodis-2.0.0+1.21.2.jar",
+                    "mc_versions": [
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/XFlUmiDF/versions/Ku3GX5ql/netprodis-2.0.0+1.21.2.jar",
+                    "id": "Ku3GX5ql",
+                    "parent_id": "XFlUmiDF",
+                    "hashes": {
+                        "sha512": "41f2c2ba301fe61440f90175f9623817dd661ef790272ffd1dcd74f83608b941613e18abc081e72ef9707de87b4cca9098e76d12c386caca60bff0b6d4a7f0d9",
+                        "sha1": "3de03ae485662839c67cc919f32c31da1ad3f64f"
+                    },
+                    "required_dependencies": [],
+                    "size": 28693,
+                    "date_published": "2025-10-28T01:18:24.553346Z"
                 }
             ]
         },
