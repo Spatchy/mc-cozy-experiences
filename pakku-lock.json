@@ -763,6 +763,54 @@
             ]
         },
         {
+            "pakku_id": "yWNDX6ebi8DgOZ34",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "seasonal-lets-do"
+            },
+            "name": {
+                "modrinth": "Seasonal Let's Do"
+            },
+            "id": {
+                "modrinth": "yFIPn94r"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "seasonal_lets_do-fabric-1.5.0+1.21.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/yFIPn94r/versions/3cmswDfD/seasonal_lets_do-fabric-1.5.0+1.21.jar",
+                    "id": "3cmswDfD",
+                    "parent_id": "yFIPn94r",
+                    "hashes": {
+                        "sha512": "599a359f64361cc06c6b8019527b0e0601ce76d1f6fb3a621274cd296118effec0ae77ad8a0bc4383ae2d29ef7884df9b37e800c7d9c5a69ddc4eb8791dcaf43",
+                        "sha1": "48a490b214db0d7b2b5a0dfc597f76977f33a1b8"
+                    },
+                    "required_dependencies": [],
+                    "size": 32868,
+                    "date_published": "2026-04-06T20:15:42.831225Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "btWsXstOjaeCHiLV",
             "type": "MOD",
             "side": "BOTH",
@@ -1002,6 +1050,48 @@
             ]
         },
         {
+            "pakku_id": "GzAu9JABMvxKoKdd",
+            "pakku_links": [
+                "vrbTGBwuO8mu4t4B"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "lets-do-alpine-whispers"
+            },
+            "name": {
+                "modrinth": "[Let's Do] Alpine Whispers"
+            },
+            "id": {
+                "modrinth": "SSPTBIrB"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "letsdo-alpinewhispers-fabric-1.0.2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/SSPTBIrB/versions/zNxGTDXB/letsdo-alpinewhispers-fabric-1.0.2.jar",
+                    "id": "zNxGTDXB",
+                    "parent_id": "SSPTBIrB",
+                    "hashes": {
+                        "sha512": "d310267d6efd643e59da50f6276dd92d692f644bf4a4128dba4d49ef6f270e84fd6e638a102ee5495665382601e128769a163541293c0144ba899e9e624f37c4",
+                        "sha1": "6d84246c96afb6c715c0cb7bcc10985bc62e661d"
+                    },
+                    "required_dependencies": [
+                        "lhGA9TYQ"
+                    ],
+                    "size": 2730369,
+                    "date_published": "2026-01-01T10:24:59.050430Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Ai6CIm8RS0s6MWZf",
             "pakku_links": [
                 "vrbTGBwuO8mu4t4B",
@@ -1138,6 +1228,52 @@
             ]
         },
         {
+            "pakku_id": "4A0P8aQGEJPNYHcP",
+            "pakku_links": [
+                "qRrah8QD7S96vlML",
+                "2TFtxSJVUZjBpqRr",
+                "vrbTGBwuO8mu4t4B"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "lets-do-brewery-farmcharm-compat"
+            },
+            "name": {
+                "modrinth": "[Let's Do] Brewery - Farm&Charm Compat"
+            },
+            "id": {
+                "modrinth": "b7NV2plI"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "letsdo-brewery-fabric-2.1.9.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/b7NV2plI/versions/8YKO4bsZ/letsdo-brewery-fabric-2.1.9.jar",
+                    "id": "8YKO4bsZ",
+                    "parent_id": "b7NV2plI",
+                    "hashes": {
+                        "sha512": "5955e6336e5e2c5437f8fb8515cc491b4f29f4b4ae6b8f552b06462569087a02bd5402ef29de87437ab2a94e042a0c7d97a11bc34f68c1be4878844be1ceb219",
+                        "sha1": "af7e2471f2076712b5105fc4910fa45c21d5e5f2"
+                    },
+                    "required_dependencies": [
+                        "HJetCzWo",
+                        "9s6osm5g",
+                        "lhGA9TYQ"
+                    ],
+                    "size": 1644965,
+                    "date_published": "2026-03-28T18:43:36.254319Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "48qps965q7Rfm2O7",
             "pakku_links": [
                 "0qKFNxtPKEHOO64D",
@@ -1178,6 +1314,52 @@
                     ],
                     "size": 1777071,
                     "date_published": "2026-03-14T06:08:12.100506Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Oo3ezxCfdcCmhYYv",
+            "pakku_links": [
+                "2TFtxSJVUZjBpqRr",
+                "vrbTGBwuO8mu4t4B",
+                "qRrah8QD7S96vlML"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "lets-do-candlelight-farmcharm-compat"
+            },
+            "name": {
+                "modrinth": "[Let's Do] Candlelight - Farm&Charm compat"
+            },
+            "id": {
+                "modrinth": "qwbArkQk"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "letsdo-candlelight-fabric-2.1.12.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/qwbArkQk/versions/d67ufvNS/letsdo-candlelight-fabric-2.1.12.jar",
+                    "id": "d67ufvNS",
+                    "parent_id": "qwbArkQk",
+                    "hashes": {
+                        "sha512": "6697f98163fd74d6c0d7fe4461ba8011d1fd21438570c8073ce0d083f68ee0acf3fc76ab05e0c61778109120ea521af309e90e0fd427b62ecacac98394e33df2",
+                        "sha1": "7556b554d9273dc98e49b3b109a58cfe4eba0d56"
+                    },
+                    "required_dependencies": [
+                        "9s6osm5g",
+                        "lhGA9TYQ",
+                        "HJetCzWo"
+                    ],
+                    "size": 2610744,
+                    "date_published": "2026-03-13T18:22:02.936929Z"
                 }
             ]
         },
@@ -1306,6 +1488,50 @@
                     ],
                     "size": 1740762,
                     "date_published": "2026-03-03T08:26:56.461906Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "l2KiwmnomcjVP5b0",
+            "pakku_links": [
+                "vrbTGBwuO8mu4t4B",
+                "2TFtxSJVUZjBpqRr"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "lets-do-meadow"
+            },
+            "name": {
+                "modrinth": "[Let's Do] Meadow"
+            },
+            "id": {
+                "modrinth": "ra7o6Sl7"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "letsdo-meadow-fabric-1.4.8.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ra7o6Sl7/versions/ZTkxt65d/letsdo-meadow-fabric-1.4.8.jar",
+                    "id": "ZTkxt65d",
+                    "parent_id": "ra7o6Sl7",
+                    "hashes": {
+                        "sha512": "8697f78b1663e8f0a82d0acebaacdd63414789b0f6864d16c77f2136c1d78ad9b2cfa18a0bb7c8fcf11a9fd9d4379e7a950229d51aaac53295e796b8218567de",
+                        "sha1": "a2d3f09ecad2415a6e3a8b4fd91f9701f75adedc"
+                    },
+                    "required_dependencies": [
+                        "lhGA9TYQ",
+                        "9s6osm5g"
+                    ],
+                    "size": 2141938,
+                    "date_published": "2026-02-24T16:02:20.970004Z"
                 }
             ]
         },
