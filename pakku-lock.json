@@ -578,6 +578,52 @@
             ]
         },
         {
+            "pakku_id": "UIX2KXAvfdJstyGM",
+            "pakku_links": [
+                "KLpSU5qrtzHhP0vt",
+                "d5fJ1O95NBp3HCTr"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "modmenu"
+            },
+            "name": {
+                "modrinth": "Mod Menu"
+            },
+            "id": {
+                "modrinth": "mOgUt4GM"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "modmenu-11.0.4.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/v6Xx3fbU/modmenu-11.0.4.jar",
+                    "id": "v6Xx3fbU",
+                    "parent_id": "mOgUt4GM",
+                    "hashes": {
+                        "sha512": "45ea8f7e0749bc0eb98900f94486e323f153b199617fa43977b46472e4196ee5a6739f41a1e7f68e270f84a367df5f7f53c2a1f46145ad7d349ede4297895396",
+                        "sha1": "8af1b0b9ee18eab5cd5e5c97c497f0e473c49e9a"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "eXts2L7r"
+                    ],
+                    "size": 973059,
+                    "date_published": "2026-03-25T00:45:03.878787Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "pHN6A7PAPFD97Xbc",
             "type": "MOD",
             "side": "BOTH",
@@ -853,6 +899,45 @@
                     "required_dependencies": [],
                     "size": 1297761,
                     "date_published": "2025-04-04T00:07:37.476142Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "d5fJ1O95NBp3HCTr",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "placeholder-api"
+            },
+            "name": {
+                "modrinth": "Text Placeholder API"
+            },
+            "id": {
+                "modrinth": "eXts2L7r"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "placeholder-api-2.4.2+1.21.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/U5bhVym2/placeholder-api-2.4.2+1.21.jar",
+                    "id": "U5bhVym2",
+                    "parent_id": "eXts2L7r",
+                    "hashes": {
+                        "sha512": "fc13d3a5c048dbaab86318edaf8b6c6b46ef9f1d367e8f063d19f5a9b0da66c5ae419d92c8c4608edc89a01eb44d91ffcf017fea73f39b222cbd85e82f70a233",
+                        "sha1": "aa1b9a49f9f190dfe4825c502b150817dd2998c3"
+                    },
+                    "required_dependencies": [],
+                    "size": 232325,
+                    "date_published": "2025-01-27T19:08:23.196696Z"
                 }
             ]
         },

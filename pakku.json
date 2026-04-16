@@ -1,7 +1,10 @@
 {
     "name": "MC Cozy Experiences",
-    "version": "2026.4.2",
+    "version": "2026.4.3",
     "overrides": [
         "config"
-    ]
+    ],
+    "paths": {
+        "mods": "mods"
+    }
 }
