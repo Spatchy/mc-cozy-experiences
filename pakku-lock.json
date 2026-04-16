@@ -330,51 +330,6 @@
             ]
         },
         {
-            "pakku_id": "vRsQOZnmLQslLezl",
-            "pakku_links": [
-                "KLpSU5qrtzHhP0vt",
-                "xA9VscN3vkHy5moY"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "cottagecraft-mod"
-            },
-            "name": {
-                "modrinth": "CottageCraft Blocks"
-            },
-            "id": {
-                "modrinth": "pcKJD9er"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "CottageCraft-1.6.1-1.21.0.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/pcKJD9er/versions/eo9IZItj/CottageCraft-1.6.1-1.21.0.jar",
-                    "id": "eo9IZItj",
-                    "parent_id": "pcKJD9er",
-                    "hashes": {
-                        "sha512": "3a52a585af43dd247828cac9f1a4a79be82e6c9fc824fbe76a52e0ea6149c812a2361e8ece6f6fadb96fd5883f0ac77c4bc485843a7ba6e9a3327e9cf419dd85",
-                        "sha1": "7f35b1fa012fa8444f701b523f93ca9fa72a64b5"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH",
-                        "tagwiZkJ"
-                    ],
-                    "size": 20301220,
-                    "date_published": "2025-04-22T23:17:14.514439Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "KLpSU5qrtzHhP0vt",
             "type": "MOD",
             "side": "BOTH",
@@ -737,49 +692,6 @@
                     "required_dependencies": [],
                     "size": 502610,
                     "date_published": "2026-03-01T15:55:42.604252Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "xA9VscN3vkHy5moY",
-            "pakku_links": [
-                "KLpSU5qrtzHhP0vt"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "polymorph"
-            },
-            "name": {
-                "modrinth": "Polymorph"
-            },
-            "id": {
-                "modrinth": "tagwiZkJ"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "polymorph-fabric-1.1.0+1.21.1.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/Ng5Y6KVo/polymorph-fabric-1.1.0+1.21.1.jar",
-                    "id": "Ng5Y6KVo",
-                    "parent_id": "tagwiZkJ",
-                    "hashes": {
-                        "sha512": "701cbff45976dcc5e8c480582fdcfaf20565d17b763a091e551debd343c37430cd711844d3d11b3f1abb236cca56ae907045b64c6ac5f70553aaa98e4fb69527",
-                        "sha1": "e4f9ec40058c07f263d19b21e438b5204ea4dc22"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH"
-                    ],
-                    "size": 320928,
-                    "date_published": "2025-07-21T10:56:15.656434Z"
                 }
             ]
         },
