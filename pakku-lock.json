@@ -348,6 +348,48 @@
             ]
         },
         {
+            "pakku_id": "6HjNgM6oVN153CqP",
+            "pakku_links": [
+                "KLpSU5qrtzHhP0vt"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "double-slabs"
+            },
+            "name": {
+                "modrinth": "Double Slabs"
+            },
+            "id": {
+                "modrinth": "hcHS5k6e"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "doubleslabs-fabric-1.21.1-0.4.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/hcHS5k6e/versions/ANRZ68tY/doubleslabs-fabric-1.21.1-0.4.1.jar",
+                    "id": "ANRZ68tY",
+                    "parent_id": "hcHS5k6e",
+                    "hashes": {
+                        "sha512": "a0747defd747f135e2ce6b513a53d6fb39185c9053a763f5a07b2e2378857729ea5b5947b56d42e817771e0e0d0fa19fbc28261d269a07f7da1965594c182206",
+                        "sha1": "f42a80ea147dadb49b515facfd2f80d83f696955"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 191023,
+                    "date_published": "2026-01-10T18:08:00.042202Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "KLpSU5qrtzHhP0vt",
             "type": "MOD",
             "side": "BOTH",
@@ -381,6 +423,45 @@
                     "required_dependencies": [],
                     "size": 2427037,
                     "date_published": "2026-05-11T12:22:21.766778Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "LkClm8MJUTMfPhBm",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "fallingtree"
+            },
+            "name": {
+                "modrinth": "FallingTree"
+            },
+            "id": {
+                "modrinth": "Fb4jn8m6"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "FallingTree-1.21.1-1.21.1.11.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/wxGXaJMA/FallingTree-1.21.1-1.21.1.11.jar",
+                    "id": "wxGXaJMA",
+                    "parent_id": "Fb4jn8m6",
+                    "hashes": {
+                        "sha512": "21876b270ca40e3ad6168423f2aba04460f590be191c5558d53e4f542993efa6070589029cb3218557309b096cd920e4da65e53f19687b86c638ec6c342d83e5",
+                        "sha1": "7e1b3ee0ba89b556d5a468797bb1b5f4e2b8ccb7"
+                    },
+                    "required_dependencies": [],
+                    "size": 496356,
+                    "date_published": "2025-08-01T07:43:39.995807Z"
                 }
             ]
         },
@@ -512,6 +593,50 @@
                     "required_dependencies": [],
                     "size": 2616562,
                     "date_published": "2026-05-11T15:36:37.914835Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "H06P1yeYkTgA3yHb",
+            "pakku_links": [
+                "z0bsaNYYalo4WTh9"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "iris"
+            },
+            "name": {
+                "modrinth": "Iris Shaders"
+            },
+            "id": {
+                "modrinth": "YL57xq9U"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "iris-fabric-1.8.8+mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/zsoi0dso/iris-fabric-1.8.8+mc1.21.1.jar",
+                    "id": "zsoi0dso",
+                    "parent_id": "YL57xq9U",
+                    "hashes": {
+                        "sha512": "2e6ba2ffa1e1a6799288245a7e0ac68ee8df1d41b98362189df58f535cae34fa9277801e4136633467341b7dae5be0e5c698011b480b3d91b66d3dd4f7567aa6",
+                        "sha1": "4e0df4011503b4b36ba69877ea7247c1a47fea00"
+                    },
+                    "required_dependencies": [
+                        "AANobbMI"
+                    ],
+                    "size": 2690177,
+                    "date_published": "2025-02-20T15:04:02.182924Z"
                 }
             ]
         },
@@ -764,6 +889,44 @@
                     "required_dependencies": [],
                     "size": 521344,
                     "date_published": "2026-06-04T14:15:55.038571Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "MpQyhFD1DV5lFOFE",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "rose-gold-equipment"
+            },
+            "name": {
+                "modrinth": "Rose Gold Equipment"
+            },
+            "id": {
+                "modrinth": "ZpZffQVs"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "rose-gold-equipment-1.7.8.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ZpZffQVs/versions/XZMlToRo/rose-gold-equipment-1.7.8.jar",
+                    "id": "XZMlToRo",
+                    "parent_id": "ZpZffQVs",
+                    "hashes": {
+                        "sha512": "68a17c172063936520e414e541e81e91708cb84861844cbf79905f202f5bc7ca8cd0d527fdfc4ca23968a42908cb42267b0c93d8b4f3fde1503f00e49a948220",
+                        "sha1": "c425cd5438c178a20b7490d61cfd46959b2db13d"
+                    },
+                    "required_dependencies": [],
+                    "size": 224432,
+                    "date_published": "2026-01-24T12:39:56.209644Z"
                 }
             ]
         },
