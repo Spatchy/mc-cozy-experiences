@@ -259,6 +259,49 @@
             ]
         },
         {
+            "pakku_id": "TzpbBZ204ZXol5CW",
+            "pakku_links": [
+                "KLpSU5qrtzHhP0vt"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "colorful-books"
+            },
+            "name": {
+                "modrinth": "Colorful Books"
+            },
+            "id": {
+                "modrinth": "yPjno2zz"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "colorful-books-1.5+1.21.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/yPjno2zz/versions/OPHzzHEU/colorful-books-1.5+1.21.jar",
+                    "id": "OPHzzHEU",
+                    "parent_id": "yPjno2zz",
+                    "hashes": {
+                        "sha512": "c1f9b0dd9082f1549f634256a67138538abc403198f5dab0b7abbbd9e825eafdb54be2b7ae2114d22ea90d61ffe22b3749eacdf49c121e44cdbceacbbdf32411",
+                        "sha1": "8dc9b5a6afbed6affdb24bc9714338e712b1a416"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 142113,
+                    "date_published": "2025-08-27T15:39:31.942297Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "LhoDCrmCPCxLn3uk",
             "pakku_links": [
                 "2TFtxSJVUZjBpqRr",
@@ -466,6 +509,44 @@
             ]
         },
         {
+            "pakku_id": "pmKLY93di2PHEPGT",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "farmers-delight-refabricated"
+            },
+            "name": {
+                "modrinth": "Farmer's Delight Refabricated"
+            },
+            "id": {
+                "modrinth": "7vxePowz"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "FarmersDelight-1.21.1-3.3.3+refabricated.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/7vxePowz/versions/NCLOIK5z/FarmersDelight-1.21.1-3.3.3+refabricated.jar",
+                    "id": "NCLOIK5z",
+                    "parent_id": "7vxePowz",
+                    "hashes": {
+                        "sha512": "9e6adc3c6b0b840a29634105c7c5fb0c46d2b0281a5807a1deb5a5093fbf190815d8b16031313d17eb71ecf736f06338da10bf4388ae900d77b883641fbcf7c9",
+                        "sha1": "6e605d344cd79519958921a2390108cb4d42cf3d"
+                    },
+                    "required_dependencies": [],
+                    "size": 3240212,
+                    "date_published": "2026-05-14T17:34:23.901245Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "wOpJx7pJMjxJfTDy",
             "pakku_links": [
                 "KLpSU5qrtzHhP0vt"
@@ -597,6 +678,49 @@
             ]
         },
         {
+            "pakku_id": "ggVOJfKBJgemRxoS",
+            "pakku_links": [
+                "jwahfpSikFA1IcxC"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "litematica"
+            },
+            "name": {
+                "modrinth": "Litematica"
+            },
+            "id": {
+                "modrinth": "bEpr0Arc"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "litematica-fabric-1.21-0.19.60.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/bEpr0Arc/versions/aEvrmYqW/litematica-fabric-1.21-0.19.60.jar",
+                    "id": "aEvrmYqW",
+                    "parent_id": "bEpr0Arc",
+                    "hashes": {
+                        "sha512": "6808c6987a15c6659ceadd7757dcceefbbe3e45dbf5c017d2a7606b6e7d4dcffdeac3206b42950c2024b3f613d55fdb66d93e831d0ed83d874f5e2508c525218",
+                        "sha1": "dfd63a022413444682108946d23fe53883f5ce6a"
+                    },
+                    "required_dependencies": [
+                        "GcWjdA9I"
+                    ],
+                    "size": 1578454,
+                    "date_published": "2025-12-31T22:58:38.866849Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "oRAVyW5JQJzwjjY3",
             "type": "MOD",
             "side": "BOTH",
@@ -631,6 +755,44 @@
                     "required_dependencies": [],
                     "size": 797398,
                     "date_published": "2026-03-10T22:02:18.628608Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "jwahfpSikFA1IcxC",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "malilib"
+            },
+            "name": {
+                "modrinth": "MaLiLib"
+            },
+            "id": {
+                "modrinth": "GcWjdA9I"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "malilib-fabric-1.21-0.21.10.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/GcWjdA9I/versions/C99LEy6r/malilib-fabric-1.21-0.21.10.jar",
+                    "id": "C99LEy6r",
+                    "parent_id": "GcWjdA9I",
+                    "hashes": {
+                        "sha512": "9f70b4605ea23f8c8b519622a6cbdcac6c8934c70bab3b8ea2d5da071a37e71ff74406d2e154c5ba4ebc7772d76e97ae94f5760e71632bd8a11d23ae8ae9a111",
+                        "sha1": "e2699ef71618c54fc03c6c8b28e336603596dcef"
+                    },
+                    "required_dependencies": [],
+                    "size": 1411200,
+                    "date_published": "2025-12-25T00:04:56.127921Z"
                 }
             ]
         },
@@ -1049,6 +1211,45 @@
                     "required_dependencies": [],
                     "size": 1565263,
                     "date_published": "2026-05-25T13:19:01.423143Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "lFKWQaSInWCymGJT",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "storage-delight"
+            },
+            "name": {
+                "modrinth": "Storage Delight"
+            },
+            "id": {
+                "modrinth": "LTTvOp5L"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "storagedelight-25.12.09-1.21-fabric.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/LTTvOp5L/versions/9tF7dgPG/storagedelight-25.12.09-1.21-fabric.jar",
+                    "id": "9tF7dgPG",
+                    "parent_id": "LTTvOp5L",
+                    "hashes": {
+                        "sha512": "af94bf1e6003c244a9779d73e783c0fa669cb018e1fd727e1874d8326dd7a9fb46396bd279bc6cc7edd14042cd23cc26971a590b19e334477305b252a00dff01",
+                        "sha1": "16aafafba834f18d3e044e5af51f7357be58037c"
+                    },
+                    "required_dependencies": [],
+                    "size": 656279,
+                    "date_published": "2025-12-09T21:12:07.974552Z"
                 }
             ]
         },
