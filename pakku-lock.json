@@ -894,7 +894,7 @@
                 "KLpSU5qrtzHhP0vt"
             ],
             "type": "MOD",
-            "side": "CLIENT",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "geckolib"
             },
