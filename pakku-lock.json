@@ -923,34 +923,6 @@
             ]
         },
         {
-            "pakku_id": "L35SXyszcsiYXBu0",
-            "type": "MOD",
-            "slug": {
-                "github": "MrCrayfish/Framework"
-            },
-            "name": {
-                "github": "Framework"
-            },
-            "id": {
-                "github": "431086325"
-            },
-            "files": [
-                {
-                    "type": "github",
-                    "file_name": "framework-fabric-0.13.27+26.3-signed.jar.asc",
-                    "release_type": "release",
-                    "url": "https://github.com/MrCrayfish/Framework/releases/download/v0.13.27%2B26.3/framework-fabric-0.13.27+26.3-signed.jar.asc",
-                    "id": "605095073",
-                    "parent_id": "431086325",
-                    "hashes": {
-                        "sha256": "e58702a4834a505bc1fc327e4542c1c4e27ebdc029a5ff95cd9df25644fd8d70"
-                    },
-                    "size": 833,
-                    "date_published": "2026-10-02T07:45:57Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "upWiU1ckxEIERZx1",
             "pakku_links": [
                 "KLpSU5qrtzHhP0vt",
