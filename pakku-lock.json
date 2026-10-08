@@ -1831,7 +1831,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "applewoodrebarked-fabric-1.2.1.jar",
+                    "file_name": "applewoodrebarked-fabric-1.1.0.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -1839,19 +1839,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/DQXAzWtW/versions/JvtHJW1z/applewoodrebarked-fabric-1.2.1.jar",
-                    "id": "JvtHJW1z",
+                    "url": "https://cdn.modrinth.com/data/DQXAzWtW/versions/JcnDYIln/applewoodrebarked-fabric-1.1.0.jar",
+                    "id": "JcnDYIln",
                     "parent_id": "DQXAzWtW",
                     "hashes": {
-                        "sha512": "fecd57db81608f6efaceaf5c5aaf2386c72ef44f7863277d90f2e5431c927ffefd2a254c34252500671a37075e287fe2b966856ff15c5a0f3f463e9869517587",
-                        "sha1": "d705af51ee6dfa7f64719e0a9d41a085cd3d1e1d"
+                        "sha512": "e5696ea76e1744e73caaac8ad7151d7bf814d493e703b7e4a87f9d453ceee3c7836902ee06b77c51488e14f7dc4b7ae08eba969a05cfa4290ba261c75047243f",
+                        "sha1": "3f2dbbf358f32fc6ae30ff9467373594c623b71c"
                     },
                     "required_dependencies": [
-                        "lhGA9TYQ",
-                        "1DWmBJVA"
+                        "1DWmBJVA",
+                        "lhGA9TYQ"
                     ],
-                    "size": 578121,
-                    "date_published": "2026-09-27T18:06:52.671102Z"
+                    "size": 491709,
+                    "date_published": "2026-07-25T13:30:44.306596Z"
                 }
             ]
         },
@@ -2361,27 +2361,26 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "letsdo-vinery-fabric-1.5.5.jar",
+                    "file_name": "letsdo-vinery-fabric-1.5.3.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
                     "loaders": [
                         "fabric"
                     ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/1DWmBJVA/versions/PDi0T5xs/letsdo-vinery-fabric-1.5.5.jar",
-                    "id": "PDi0T5xs",
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/1DWmBJVA/versions/BV45cdzS/letsdo-vinery-fabric-1.5.3.jar",
+                    "id": "BV45cdzS",
                     "parent_id": "1DWmBJVA",
                     "hashes": {
-                        "sha512": "b0a152d0791dd66e4044a1f5187761750ded2ef2dfcd40ab4b5f0eeb5f9febb9b275d90fd77797c19ae1f9504a3fb3d0359c18e871113fab8cd0b138646f5dda",
-                        "sha1": "9d4c7646b91219a75a432b6dea1d7a7c41faaaec"
+                        "sha512": "a03575476d004c6256a07577ed034ec0b2cfe4fb385bfc5b8d2bc0fd29f3cb3e37935dc95acbb55dfba9983e9a85c70b6ec14f489dded78feb6c6c08c7f5ed11",
+                        "sha1": "df3c9ca6a335651f3da77d489ba7a517bc0f3feb"
                     },
                     "required_dependencies": [
-                        "lhGA9TYQ",
-                        "9s6osm5g"
+                        "lhGA9TYQ"
                     ],
-                    "size": 2504411,
-                    "date_published": "2026-10-07T14:34:06.058511Z"
+                    "size": 2984330,
+                    "date_published": "2026-01-28T07:41:28.780710Z"
                 }
             ]
         }
