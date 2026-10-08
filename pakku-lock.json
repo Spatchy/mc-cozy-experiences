@@ -937,13 +937,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "framework-neoforge-0.13.27+26.3-signed.jar.asc",
+                    "file_name": "framework-fabric-0.13.27+26.3-signed.jar.asc",
                     "release_type": "release",
-                    "url": "https://github.com/MrCrayfish/Framework/releases/download/v0.13.27+26.3/framework-neoforge-0.13.27+26.3-signed.jar.asc",
+                    "url": "https://github.com/MrCrayfish/Framework/releases/download/v0.13.27%2B26.3/framework-fabric-0.13.27+26.3-signed.jar.asc",
                     "id": "605095073",
                     "parent_id": "431086325",
                     "hashes": {
-                        "sha256": "0fef15dc24f3cf7f2fa8fe6b3010bbc4e9f3ef628b217f6efb99f6d0b3015f9b"
+                        "sha256": "e58702a4834a505bc1fc327e4542c1c4e27ebdc029a5ff95cd9df25644fd8d70"
                     },
                     "size": 833,
                     "date_published": "2026-10-02T07:45:57Z"
